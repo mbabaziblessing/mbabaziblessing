@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mbabazi Blessing 👋
 
-<!--
-**mbabaziblessing/mbabaziblessing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Founder of Bless Fashion House
 
-Here are some ideas to get you started:
+I'm a Full-Stack Web Developer and Fashion Entrepreneur based in Uganda. I build modern, responsive websites and eCommerce solutions while growing Bless Fashion House.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git & GitHub
+- Responsive Web Design
+
+## Current Projects
+
+- 🛍 Bless Fashion House
+- 💄 Blissful Beauty Lounge
+- 📺 KisoroTV
+- 🌍 Kisoro District Website
+
+## Goals
+
+- Build world-class eCommerce platforms
+- Create modern digital solutions for businesses
+- Contribute to open-source projects
+- Continuously improve my software development skills
+
+## Contact
+
+- 📧 mbabaziblessing2002@gmail.com
+- 📍 Kampala, Uganda
